@@ -97,8 +97,6 @@ public class Ggt {
 	}
 
 
-
-
 	public static void main( String[] args ){
 		boolean progRunning = true;
 		Scanner in = new Scanner(System.in);
