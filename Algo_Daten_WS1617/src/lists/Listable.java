@@ -17,5 +17,7 @@ public interface Listable <T> {
 	public void printAll();
 	
 	public void insertAt(int index, T data);
+	
+	public void printOne(T data);
 
 }
